@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="982f1727-e008-4775-b5c1-b5a7a8267084" name="Changes" comment="git commit -m &quot;first commit&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/diplom-rivo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +72,7 @@
       <workItem from="1716376056612" duration="3685000" />
       <workItem from="1716395505496" duration="3836000" />
       <workItem from="1716560923131" duration="6174000" />
-      <workItem from="1716648426383" duration="9706000" />
+      <workItem from="1716648426383" duration="10661000" />
     </task>
     <task id="LOCAL-00001" summary="git commit -m &quot;first commit&quot;">
       <option name="closed" value="true" />
