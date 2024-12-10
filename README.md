@@ -1,4 +1,4 @@
-# 🏛️ Rivo
+# 🏛️ [Rivo](https://xinqrmn.github.io/project-rivo/)
 
 A project developed as part of a diploma defense at PGUTI.  
 
