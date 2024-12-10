@@ -3,7 +3,11 @@
 A project developed as part of a diploma defense at PGUTI.  
 
 ## 🚀 Features
-- [Briefly describe the main features of the project here]
+- Modern Design and Layout
+- Responsive Design
+- Interactive Elements
+- Code Quality
+- Performance Optimization
 
 ## 🛠️ Technologies
 - HTML
